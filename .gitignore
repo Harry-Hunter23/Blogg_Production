@@ -5,9 +5,7 @@ node_modules/
 *.log
 npm-debug.log*
 
-# Build directories
-build/
-dist/
+
 
 
 # Environment variables
